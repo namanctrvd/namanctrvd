@@ -49,7 +49,7 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=namanctrvd&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=namanctrvd&count_private=true&theme=radical&show_icons=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanctrvd&theme=react&layout=compact" />
 </p>
 
