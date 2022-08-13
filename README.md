@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman </h1>
-<h3 align="center">I love using technology to make things better with my creativity</h3>
+<h3 align="center">I love using technology and my creativity to make things better.</h3>
 
 
 
