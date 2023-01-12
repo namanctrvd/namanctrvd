@@ -49,8 +49,8 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=namanctrvd&count_private=true&theme=radical&show_icons=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanctrvd&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=namanctrvd&count_private=true&theme=radical&show_icons=true" />
+  <img height= "150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=namanctrvd&theme=react&layout=compact" />
 </p>
 
 ------
